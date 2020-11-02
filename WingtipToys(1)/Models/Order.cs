@@ -5,7 +5,7 @@ using System.Web;
 
 namespace WingtipToys_1_.Models
 {
-    public class IdentityModels
+    public class Order
     {
     }
 }
